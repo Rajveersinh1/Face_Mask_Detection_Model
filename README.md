@@ -1,6 +1,6 @@
 # Face_Mask_Detection_Model
 
-This repository contains a face mask detection model implemented using deep learning techniques. The model is trained on a dataset of images containing people with and without masks, and is able to detect whether a person is wearing a mask or not in real-time video streams.
+This repository contains a face mask detection model implemented using deep learning techniques. The model is trained on a dataset of images containing people with and without masks, and is able to detect whether a person is wearing a mask or not in real-time video streams. 
 
 The model is built using Python and utilizes the OpenCV and TensorFlow libraries. The implementation includes scripts for training the model on your own dataset, as well as a pre-trained model that can be used for inference.
 
